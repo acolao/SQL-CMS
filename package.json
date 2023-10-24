@@ -1,0 +1,20 @@
+{
+  "name": "sql-cms",
+  "version": "1.0.0",
+  "description": "a SQL CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SQL-CMS"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "mysql2": "^3.6.2"
+  }
+}

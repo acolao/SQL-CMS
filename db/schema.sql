@@ -1,0 +1,8 @@
+DROP DATABASE IF EXISTS reader_db;
+CREATE DATABASE reader_db;
+
+USE reader_db;
+
+CREATE TABLE novel (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+)
